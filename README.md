@@ -1,4 +1,4 @@
-Objective
+
 The objective of this task is to perform exploratory data analysis (EDA) on an accident dataset and visualize key factors affecting accident severity using Python.
 
 📁 Dataset
